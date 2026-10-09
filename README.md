@@ -4,6 +4,12 @@
 
 为 MSST 音频分离功能重新设计的 Windows 桌面界面，采用圆角卡通风格，方便选择模型、处理音频、试听结果和归档文件。
 
+## 程序界面
+
+![声迹 · MSST 工作台主界面](interface.png)
+
+圆角卡通界面，支持拖拽导入音频、波形试听以及四类处理模块。
+
 ## MSST 是什么，可以用来做什么？
 
 MSST 是 **Music Source Separation Training** 的缩写，可理解为“音乐音源分离训练”。其上游项目提供音乐音源分离模型的训练与推理代码：训练是学习如何分离声音，推理是使用已有模型处理音频。[上游项目](https://github.com/ZFTurbo/Music-Source-Separation-Training)
