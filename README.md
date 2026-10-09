@@ -18,7 +18,7 @@ MSST 是 **Music Source Separation Training** 的缩写，可理解为“音乐�
 
 ## 下载与安装
 
-前往 [V1 下载页面](https://github.com/p1nean16-bit/APine/releases/tag/V1)，下载 `Setup.exe` 和**所有** `Setup-*.bin` 文件。
+前往 [V1 下载页面](https://github.com/p1nean16-bit/Shengji-MSST/releases/tag/V1)，下载 `Setup.exe` 和**所有** `Setup-*.bin` 文件。
 
 1. 把安装 EXE 和所有 BIN 分卷放在同一文件夹。
 2. 双击 `Setup.exe`，选择安装目录并按向导完成安装。
@@ -52,7 +52,7 @@ MSST 是 **Music Source Separation Training** 的缩写，可理解为“音乐�
 
 推理功能基于 [Music Source Separation Training](https://github.com/ZFTurbo/Music-Source-Separation-Training) 及本地 MSST-GUI 运行环境。安装目录 `runtime/LICENSE` 保留上游代码许可证；模型及第三方依赖遵循各自许可。
 
-遇到问题可在 [Issues](https://github.com/p1nean16-bit/APine/issues) 描述复现步骤和错误信息。
+遇到问题可在 [Issues](https://github.com/p1nean16-bit/Shengji-MSST/issues) 描述复现步骤和错误信息。
 ## AI 制作声明与免责声明
 
 本程序的界面设计、代码编写与打包工作由 OpenAI Codex（AI）辅助完成，项目发布者提出功能需求并参与多轮使用反馈。音频分离能力来自第三方模型与推理代码，并非本项目独立训练的模型。
