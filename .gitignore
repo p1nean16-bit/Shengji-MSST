@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+runtime/
+env/
+pretrain/
+output/
+*.log
+*.zip
+*.bin
+msst_studio_settings.json
